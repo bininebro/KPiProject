@@ -1,3 +1,3 @@
 <?php 
-echo('gfd');
+echo('hi this is a test');
 ?>
